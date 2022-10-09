@@ -7,7 +7,7 @@
       </table>
       <table>
         <tr>
-          <td></td><td><a href = "https://github.com/Suk0803/Flet-tutorial">My Flet Tutorial</a></td>
+          <td><h4>Flet</h4></td><td><a href = "https://github.com/Suk0803/Flet-tutorial">My Flet Tutorial</a></td>
         </tr>
       </table>
     </body>
