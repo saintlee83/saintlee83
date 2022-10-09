@@ -6,7 +6,7 @@
         <img src = "">
       </table>
       <table>
-        <tr>
+        <tr align = "center">
           <td><h4>Flet</h4></td><td><a href = "https://github.com/Suk0803/Flet-tutorial">My Flet Tutorial</a></td>
         </tr>
       </table>
