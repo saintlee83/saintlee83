@@ -4,7 +4,7 @@
     <h1>HI 😛 I'm Jay ~!</h1>
       <table>
         <tr align = "center">
-          <td><img src = "https://github.com/Suk0803/img/blob/main/TESTTEXT.png"></td>
+          <img src = "https://github.com/Suk0803/img/blob/main/TESTTEXT.png">
         </tr>
         <table>
           <tr align = "center">
