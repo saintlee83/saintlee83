@@ -1,7 +1,6 @@
 <html>
   <head>
     <body>
-    <h1>HI 😛 I'm Jay ~!</h1>
       <table>
         <tr align = "center">
           <img src = "https://github.com/Suk0803/img/blob/main/W.png">
