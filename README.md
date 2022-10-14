@@ -2,14 +2,18 @@
   <head>
     <body>
       <table>
-        <tr align = "center">
-          <img src = "https://github.com/Suk0803/img/blob/main/W.png">
-        </tr>
-        <table>
-          <tr align = "center">
-          <td><h4>Flet</h4></td><td><a href = "https://github.com/Suk0803/Flet-tutorial">My Flet Tutorial</a></td>
+        <thead>
+          <tr>
+            <th colspan="10"> My links</th>
           </tr>
-        </table>
+        </thead>
+        <tbody>
+          <tr align = "center">
+            <img src = "https://github.com/Suk0803/img/blob/main/W.png">
+            <td><h4>Flet</h4></td>
+            <td><a href = "https://github.com/Suk0803/Flet-tutorial">My Flet Tutorial</a></td>
+          </tr>
+        </tbody>
       </table>
     </body>
   </head>
