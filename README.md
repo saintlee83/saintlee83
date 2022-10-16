@@ -12,5 +12,5 @@ The Python is my favorite language, And I am learning several languages.
 ---
 
 ###### more info about me
-birth Aug 3ed 2006
+birth Aug 3ed 2006\
 korean 🇰🇷
