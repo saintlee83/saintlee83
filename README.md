@@ -14,10 +14,4 @@ The Python is my favorite language, And I am learning several languages.
 ###### more info about me
 birth Aug 3ed 2006\
 korean 🇰🇷\
-[here is my English account] [1]
-
-
-
-
-
-[1] : https://github.com/JayLee83
+[here is my English account] (https://github.com/JayLee83)
