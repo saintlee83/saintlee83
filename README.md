@@ -1,7 +1,7 @@
 # Suk0803
 ```korean high school junior developer```
 
-The Python is my favorite language, And I am learning several languages.
+The Python is my favorite language, And I'm learning several languages.
 
 ### Languages and Tools
 
