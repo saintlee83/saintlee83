@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧐 korean high school student<br>📖 The Python is my favorite language, And I'm learning several languages.<br>🏋️ Work out 5 day of week
+🧐 korean high school student<br>📖 The Python is my favorite language, And I'm learning several languages.<br>🏋️ Work out 5 days of week
 
 
 ## 🌐 Socials:
