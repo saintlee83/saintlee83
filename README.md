@@ -1,21 +1,22 @@
-# Suk0803
-```korean high school junior developer```
+<h1 align="center">Hi 👋, I'm JayLee</h1>
+<h3 align="center">korean high school student</h3>
 
-The Python is my favorite language, And I'm learning several languages.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suk0803&label=Profile%20views&color=0e75b6&style=flat" alt="suk0803" /> </p>
 
-### Languages and Tools
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suk0803" alt="suk0803" /></a> </p>
 
-<img align="left" alt="Python" width="30" style="padding-right:10px;" src="https://github.com/Suk0803/DEv-icons/blob/main/python-plain.svg" />
-<img align="left" alt="vsc" width="30" style="padding-right:10px;" src="https://github.com/Suk0803/DEv-icons/blob/main/vscode-original.svg" />
-<img align="left" alt="git" width="30" style="padding-right:10px;" src="https://github.com/Suk0803/DEv-icons/blob/main/git-plain.svg" />
-<img align="left" alt="java" width="30" style="padding-right:10px;" src="https://github.com/Suk0803/DEv-icons/blob/main/java-plain.svg" />
-<img align="left" alt="csharp" width="30" style="padding-right:10px;" src="https://github.com/Suk0803/DEv-icons/blob/main/csharp-plain.svg" />
-<img align="left" alt="cplusplus" width="30" style="padding-right:10px;" src="https://github.com/Suk0803/DEv-icons/blob/main/cplusplus-plain.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/suk0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suk0803" height="30" width="40" /></a>
+<a href="https://hashnode.com/suk0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="suk0803" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaesek1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaesek1223" height="30" width="40" /></a>
+</p>
 
----
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-###### more info about me
-birth Aug 3ed 2006\
-korean 🇰🇷\
-[here is my English account](https://github.com/JayLee83)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suk0803&show_icons=true&locale=en&layout=compact" alt="suk0803" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suk0803&show_icons=true&locale=en" alt="suk0803" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suk0803&" alt="suk0803" /></p>
