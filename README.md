@@ -29,17 +29,19 @@ src="https://img.shields.io/github/followers/suk0803?logo=github&style=for-the-b
 
 <p align="left"> <a href="https://www.dev.to/suk0803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/suk0803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@Suk0803" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/realjaylee_83/?next=%2F" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20002169" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Status
 
 ![snake Animation](https://github.com/Suk0803/Suk0803/blob/output/github-contribution-grid-snake.svg)
 
-<b>My GitHub Stats</b>
+### Badges
 
-<table>
-  <th>
-    <a href="http://www.github.com/suk0803"><img src="https://github-readme-stats.vercel.app/api?username=suk0803&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="suk0803's GitHub stats" /></a>
-    <a href="http://www.github.com/suk0803"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suk0803&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  </th>
-	  <th><a href="https://github.com/suk0803" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suk0803&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  </th>
-</table>
+<b>My GitHub Stats</b>
+<div style="width: 30%; height:150px; border:1px solid red; float: left;">
+   <a href="http://www.github.com/suk0803"><img src="https://github-readme-stats.vercel.app/api?username=suk0803&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="suk0803's GitHub stats" /></a>
+    <a href="http://www.github.com/suk0803"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suk0803&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>    
+</div>
+
+<div style="width: 65%; height:150px; border:1px solid green; float: right;">
+<a href="https://github.com/suk0803" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suk0803&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+
