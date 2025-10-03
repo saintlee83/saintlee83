@@ -5,6 +5,7 @@
 # Careers
 ## 2024
 - Minister of Education Award(🥇prize), 2024 AI Youth Challenge
+- AI Avengers Award, 2024 Digital Seed
 
 ## 2025
 - Bachelor’s degree candidate in Biomedical Engineering at Gachon University
