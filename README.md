@@ -9,3 +9,6 @@
 
 ## 2025
 - Bachelor’s degree candidate in Biomedical Engineering at Gachon University
+
+## 2026
+- Researcher, R&D Dept. Neumous Inc
