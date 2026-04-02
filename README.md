@@ -5,7 +5,7 @@
 # Careers
 ## 2024
 - Minister of Education Award(🥇prize), 2024 AI Youth Challenge
-  - Digital Alchemist Labs  
+  - Team Leader, Digital Alchemist Labs
 - AI Avengers Award, 2024 Digital Seed
 
 ## 2025
