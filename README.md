@@ -5,10 +5,12 @@
 # Careers
 ## 2024
 - Minister of Education Award(🥇prize), 2024 AI Youth Challenge
+  - Digital Alchemist Labs  
 - AI Avengers Award, 2024 Digital Seed
 
 ## 2025
 - Bachelor’s degree candidate in Biomedical Engineering at Gachon University
+- D-ALabs
 
 ## 2026
 - Researcher, R&D Dept. Neumous Inc
