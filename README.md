@@ -13,4 +13,5 @@
 - D-ALabs
 
 ## 2026
+- Side Impact 2025, Impact track
 - Researcher, R&D Dept. Neumous Inc
