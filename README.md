@@ -10,7 +10,7 @@
 
 ## 2025
 - Bachelor’s degree candidate in Biomedical Engineering at Gachon University
-- Founder & CEO @D-ALabs
+- Founder & CEO [@D-ALabs](https://d-alabs.com)
 - Side Impact 2025, Impact track
 
 ## 2026
