@@ -10,8 +10,8 @@
 
 ## 2025
 - Bachelor’s degree candidate in Biomedical Engineering at Gachon University
-- D-ALabs
+- Founder & CEO @D-ALabs
+- Side Impact 2025, Impact track
 
 ## 2026
-- Side Impact 2025, Impact track
 - Researcher, R&D Dept. Neumous Inc
