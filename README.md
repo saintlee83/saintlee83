@@ -15,5 +15,3 @@
 
 ## 2026
 - Researcher, R&D Dept. Neumous Inc
-
-![snake](https://raw.githubusercontent.com/suk0803/suk0803/output/github-contribution-grid-snake.svg)
