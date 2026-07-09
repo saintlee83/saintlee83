@@ -6,6 +6,7 @@
 - Minister of Education Award(🥇prize), 2024 AI Youth Challenge
   - Team Leader, Digital Alchemist Labs
 - AI Avengers Award(🥇prize), 2024 Digital Seed
+- Release [SignGPT](https://www.signgpt.org/)
 
 ## 2025
 - Bachelor’s degree candidate in Biomedical Machine Engineering at Gachon University
