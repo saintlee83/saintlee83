@@ -1,2 +1,2 @@
 ![404](https://github.com/Suk0803/imgs/blob/main/404.png)
-D-ALabs, LLC.
+D-ALabs, LLC. 2025.
