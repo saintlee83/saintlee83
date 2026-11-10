@@ -1,3 +1,7 @@
-![Developer stats](https://ohmystats.dev/u/saintlee83/dashboard.svg)
+![404](https://github.com/suk0803/imgs/blob/main/404.png)
+
+![AI token trace](https://ohmystats.dev/u/saintlee83/components/tokens.svg)
+
+![Top languages](https://ohmystats.dev/u/saintlee83/components/languages.svg)
 
 D-ALabs, LLC. 2025.
