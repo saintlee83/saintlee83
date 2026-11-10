@@ -1,4 +1,3 @@
-![404](https://github.com/suk0803/imgs/blob/main/404.png)
 ![Profile](https://ohmystats.dev/u/saintlee83/components/profile.svg)
 ![AI token trace](https://ohmystats.dev/u/saintlee83/components/tokens.svg)
 ![Top languages](https://ohmystats.dev/u/saintlee83/components/languages.svg)
